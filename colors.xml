@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1F4E78</color>
+    <color name="primary_dark">#163A5A</color>
+    <color name="accent">#F28C28</color>
+    <color name="bg">#F2F4F7</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text_main">#1A1A1A</color>
+    <color name="text_soft">#5F6368</color>
+    <color name="owed">#C62828</color>
+    <color name="profit">#2E7D32</color>
+    <color name="whatsapp">#25D366</color>
+</resources>

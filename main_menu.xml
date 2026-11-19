@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_summary"
+        android:title="Summary"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_export"
+        android:title="Export to Excel (CSV)"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_backup"
+        android:title="Backup jobs"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_restore"
+        android:title="Restore from backup"
+        app:showAsAction="never" />
+</menu>
